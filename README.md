@@ -1,2 +1,11 @@
 # calculo_da_media
-Exercício de Programação Avançada visando o cálculo de média aritmética de 3 formas diferentes e usando 2 programas, ficando o 1° responsável pela leitura dos dados e o 2° responsável pelo cálculo.
+Exercício da disciplina de Programação Avançada.
+
+Utilize três abordagens distintas para implementar o que se pede:
+
+Escreva dois programas, A e B que:
+- O programa A lê 3 valores inteiros a partir da entrada padrão (stdin) e envia estes valores para a média aritmética ser calculada no programa B. O resultado é mostrado na saída padrão.
+
+- Faça um arquivo README.md onde são descritas as orientações de utilização dos programas e o mecanismo de comunicação escolhido.
+
+Alunos: Isaú Lucas e Liza Magalhães
